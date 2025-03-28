@@ -1,13 +1,13 @@
-package com.phegondev.PhegonHotel;
+package com.dev.Hotel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PhegonHotelApplication {
+public class HotelApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PhegonHotelApplication.class, args);
+        SpringApplication.run(HotelApplication.class, args);
     }
 
 }
