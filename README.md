@@ -2,6 +2,7 @@
  Welcome to the Hotel Booking Application! This project is designed to provide users with a seamless experience to register, search, and book hotels efficiently.
  
  Features
+ 
  User Registration: Secure and straightforward user sign-up and authentication process.
  
  Hotel Search: Comprehensive search functionality allowing users to find hotels.
@@ -13,6 +14,7 @@
  Cross-Browser Compatibility: Ensures a consistent user experience across all major web browsers.
  
  Technologies Used
+ 
  Frontend: React
  
  Backend:  Java, Spring Boot, 
